@@ -7,7 +7,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nohan-lebreton&label=Profile%20views&color=0e75b6&style=flat" alt="nohan-lebreton" />
 
 
- - 🚀 Actuellement, développeur backend chez Limengo.
+ - 🚀 Actuellement, développeur Go backend chez Limengo.
 - 🌱 J'apprends continuellement et je suis toujours ouvert aux nouvelles technologies et aux meilleures pratiques de développement.
 - 💬 N'hésitez pas à me poser des questions sur quoi que ce soit, je suis heureux d'aider ! Vous pouvez me contacter par [email](lebreton.nohan@gmail.com)  :)
   
