@@ -1,8 +1,11 @@
-Salut, je suis Nohan, un développeur backend passionné.
+# Salut, je suis Nohan, un développeur backend passionné ! 👋
+
 <img align="right" alt="GIF" src="https://github.com/nohan-lebreton/nohan-lebreton/assets/img/code.gif?raw=true" width="500" height="320" />
 
-💬 N'hésitez pas à me poser des questions sur quoi que ce soit, je suis heureux d'aider ! Vous pouvez me contacter par [email](lebreton.nohan@gmail.com)  :)
-
+ - 🚀 Actuellement, je travaille chez Limengo.
+- 🌱 J'apprends continuellement et je suis toujours ouvert aux nouvelles technologies et aux meilleures pratiques de développement.
+- 💬 N'hésitez pas à me poser des questions sur quoi que ce soit, je suis heureux d'aider ! Vous pouvez me contacter par [email](lebreton.nohan@gmail.com)  :)
+  
 Langages et outils :
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
