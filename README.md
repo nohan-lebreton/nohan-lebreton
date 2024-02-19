@@ -1,5 +1,5 @@
 <h1 align="center"> Salut, je suis Nohan ! 👋 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nohan-lebreton-199b20210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nohan-lebreton-199b20210/" height="30" width="40" /></a></h1> 
+<a href="https://www.linkedin.com/in/nohan-lebreton-199b20210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin nohan" height="30" width="40" /></a></h1> 
 
 <p align="center">
   <img alt="GIF" src="https://github.com/nohan-lebreton/nohan-lebreton/blob/main/code.gif?raw=true" width="500" height="320" />
