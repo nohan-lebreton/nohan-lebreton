@@ -41,7 +41,7 @@
 
 
 
-# Salut, je suis Nohan, un développeur backend passionné ! 👋
+<h1 align="center"> # Salut, je suis Nohan, un développeur backend passionné ! 👋
 
 <img align="right" alt="GIF" src="https://github.com/nohan-lebreton/nohan-lebreton/assets/img/code.gif?raw=true" width="500" height="320" />
 
