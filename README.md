@@ -1,7 +1,7 @@
 Salut, je suis Nohan, un développeur backend passionné.
 <img align="right" alt="GIF" src="https://github.com/nohan-lebreton/nohan-lebreton/assets/img/code.gif?raw=true" width="500" height="320" />
 
-    💬 N'hésitez pas à me poser des questions sur quoi que ce soit, je suis heureux d'aider ! Vous pouvez me contacter par [email](lebreton.nohan@gmail.com)  :)
+💬 N'hésitez pas à me poser des questions sur quoi que ce soit, je suis heureux d'aider ! Vous pouvez me contacter par [email](lebreton.nohan@gmail.com)  :)
 
 Langages et outils :
 
