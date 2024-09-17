@@ -1,4 +1,4 @@
-<h1 align="center"> Salut, je suis Nohan ! 👋 
+<h1 align="center"> Hello, je suis Nohan ! 👋 
 <a href="https://www.linkedin.com/in/nohan-lebreton-199b20210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin nohan" height="30" width="40" /></a></h1> 
 
 <p align="center">
@@ -7,7 +7,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nohan-lebreton&label=Profile%20views&color=0e75b6&style=flat" alt="nohan-lebreton" />
 
 
- - 🚀 Actuellement, développeur Go backend chez Limengo.
+ - 🚀 Actuellement, développeur chez NCI.
 - 🌱 J'apprends continuellement et je suis toujours ouvert aux nouvelles technologies et aux meilleures pratiques de développement.
 - 💬 N'hésitez pas à me poser des questions sur quoi que ce soit, je suis heureux d'aider ! Vous pouvez me contacter par [email](lebreton.nohan@gmail.com)  :)
   
