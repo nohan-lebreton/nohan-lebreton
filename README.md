@@ -1,5 +1,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nohan-lebreton&show_icons=true)
 
+[![GitHub stars](https://img.shields.io/github/stars/TON_NOM_UTILISATEUR?label=Stars&style=flat-square)](https://github.com/nohan-lebreton?tab=repositories)
+
 
 <hr>
 
