@@ -2,6 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/TON_NOM_UTILISATEUR?label=Stars&style=flat-square)](https://github.com/nohan-lebreton?tab=repositories)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nohan-lebreton&layout=compact)
 
 <hr>
 
