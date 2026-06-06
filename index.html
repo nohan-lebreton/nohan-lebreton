@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV – [Prénom Nom] – Développeur Web Fullstack</title>
+  <style>
+    /* ── Reset & base ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 11pt;
+      line-height: 1.55;
+      color: #1a1a1a;
+      background: #fff;
+      max-width: 210mm;
+      margin: 0 auto;
+      padding: 18mm 18mm 16mm;
+    }
+
+    /* ── En-tête ── */
+    header {
+      border-bottom: 2px solid #1a1a1a;
+      padding-bottom: 10px;
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 22pt;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      color: #1a1a1a;
+    }
+
+    .titre-poste {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 12pt;
+      color: #444;
+      margin-top: 2px;
+    }
+
+    .contact {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 9.5pt;
+      color: #444;
+      margin-top: 8px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px 18px;
+    }
+
+    .contact a {
+      color: #1a1a1a;
+      text-decoration: none;
+    }
+
+    /* ── Sections ── */
+    section {
+      margin-bottom: 18px;
+    }
+
+    h2 {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 10.5pt;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+      color: #1a1a1a;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 3px;
+      margin-bottom: 10px;
+    }
+
+    /* ── Bloc expérience / formation ── */
+    .item {
+      margin-bottom: 12px;
+    }
+
+    .item-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 8px;
+    }
+
+    .item-titre {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 10.5pt;
+      font-weight: 700;
+      color: #1a1a1a;
+    }
+
+    .item-periode {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 9.5pt;
+      color: #555;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .item-sous-titre {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 10pt;
+      color: #444;
+      margin-top: 1px;
+      margin-bottom: 4px;
+    }
+
+    .item ul {
+      padding-left: 16px;
+      margin-top: 3px;
+    }
+
+    .item ul li {
+      font-size: 10pt;
+      margin-bottom: 2px;
+      color: #1a1a1a;
+    }
+
+    /* ── Compétences ── */
+    .competences-grille {
+      display: grid;
+      grid-template-columns: 150px 1fr;
+      gap: 5px 12px;
+      font-size: 10pt;
+    }
+
+    .competences-grille .label {
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 700;
+      color: #1a1a1a;
+    }
+
+    .competences-grille .valeur {
+      color: #1a1a1a;
+    }
+
+    /* ── Print ── */
+    @media print {
+      body {
+        padding: 14mm 16mm;
+        font-size: 10.5pt;
+      }
+
+      h1 { font-size: 20pt; }
+
+      a { color: #1a1a1a !important; }
+
+      section { page-break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ══ EN-TÊTE ══ -->
+  <header>
+    <h1>LEBRETON Nohan</h1>
+    <p class="titre-poste">Développeur Web Fullstack – Freelance</p>
+    <div class="contact">
+      <span>Caen, France</span>
+      <span>+33 6 98 38 67 82</span>
+      <a href="mailto:lebreton.nohan@gmail.com">lebreton.nohan@gmail.com</a>
+      <a href="https://www.linkedin.com/in/nohan-lebreton-199b20210">linkedin.com/in/nohan-lebreton-199b20210</a>
+      <a href="https://github.com/nohan-lebreton">github.com/nohan-lebreton</a>
+      <a href="https://nohan-lebreton.fr">nohan-lebreton.fr</a>
+    </div>
+  </header>
+
+  <!-- ══ RÉSUMÉ ══ -->
+  <section>
+    <h2>Profil</h2>
+    <p style="font-size: 10.5pt;">
+      Chef de projet/Développeur web fullstack avec 3 ans d'expérience, spécialisé en Vue.JS, Laravel.js.
+      Habitué à travailler en autonomie comme en équipe sur des projets variés, de la conception à la mise en production.
+      Sensible aux bonnes pratiques, à l'accessibilité et à l'éco-conception web.
+    </p>
+  </section>
+
+  <!-- ══ COMPÉTENCES TECHNIQUES ══ -->
+  <section>
+    <h2>Compétences techniques</h2>
+    <div class="competences-grille">
+      <span class="label">Frontend</span>
+      <span class="valeur">Vue.js, Next.js, HTML5, CSS3, Tailwind CSS</span>
+
+      <span class="label">Backend</span>
+      <span class="valeur">Node.js, Express, PHP, Laravel, Bun.js, REST API</span>
+
+      <span class="label">Base de données</span>
+      <span class="valeur">PostgreSQL, MySQL</span>
+
+      <span class="label">Outils & DevOps</span>
+      <span class="valeur">Git, Gitlab, GitHub, Docker, CI/CD, Linux</span>
+
+      <span class="label">Mangement de projet</span>
+      <span class="valeur"></span>
+
+      <span class="label">Bonnes pratiques</span>
+      <span class="valeur">Clean Code, tests unitaires (Jest, Vitest), accessibilité WCAG, éco-conception</span>
+    </div>
+  </section>
+
+  <!-- ══ EXPÉRIENCES PROFESSIONNELLES ══ -->
+  <section>
+    <h2>Expériences professionnelles</h2>
+
+    <div class="item">
+      <div class="item-header">
+        <span class="item-titre">Développeur Web Fullstack – Freelance</span>
+        <span class="item-periode">MM/AAAA – aujourd'hui</span>
+      </div>
+      <p class="item-sous-titre">Auto-entrepreneur – [Ville]</p>
+      <ul>
+        <li>Développement de sites et applications web sur mesure pour des clients [secteurs]</li>
+        <li>Conception et intégration d'interfaces React / Next.js avec API Node.js</li>
+        <li>Mise en place de bonnes pratiques : Git, tests, revue de code, déploiement continu</li>
+        <li>[Résultat concret : ex. réduction du temps de chargement de 40 %, livraison en 3 semaines]</li>
+      </ul>
+    </div>
+
+    <div class="item">
+      <div class="item-header">
+        <span class="item-titre">[Intitulé du poste]</span>
+        <span class="item-periode">MM/AAAA – MM/AAAA</span>
+      </div>
+      <p class="item-sous-titre">[Entreprise] – [Ville]</p>
+      <ul>
+        <li>[Mission principale]</li>
+        <li>[Technologie ou méthode notable]</li>
+        <li>[Résultat mesurable ou livrable]</li>
+      </ul>
+    </div>
+
+    <div class="item">
+      <div class="item-header">
+        <span class="item-titre">[Intitulé du poste ou stage]</span>
+        <span class="item-periode">MM/AAAA – MM/AAAA</span>
+      </div>
+      <p class="item-sous-titre">[Entreprise] – [Ville]</p>
+      <ul>
+        <li>[Mission principale]</li>
+        <li>[Technologie ou méthode notable]</li>
+      </ul>
+    </div>
+
+  </section>
+
+  <!-- ══ PROJETS NOTABLES ══ -->
+  <section>
+    <h2>Projets notables</h2>
+
+    <div class="item">
+      <div class="item-header">
+        <span class="item-titre">[Nom du projet]</span>
+        <span class="item-periode">AAAA</span>
+      </div>
+      <p class="item-sous-titre">Stack : React, Node.js, PostgreSQL</p>
+      <ul>
+        <li>[Description courte : ce que ça fait, pour qui]</li>
+        <li>[Point technique notable ou résultat]</li>
+      </ul>
+    </div>
+
+    <div class="item">
+      <div class="item-header">
+        <span class="item-titre">[Nom du projet]</span>
+        <span class="item-periode">AAAA</span>
+      </div>
+      <p class="item-sous-titre">Stack : [technologies]</p>
+      <ul>
+        <li>[Description courte]</li>
+        <li>[Lien GitHub ou démo si public]</li>
+      </ul>
+    </div>
+
+  </section>
+
+  <!-- ══ FORMATION ══ -->
+  <section>
+    <h2>Formation</h2>
+
+    <div class="item">
+      <div class="item-header">
+        <span class="item-titre">[Diplôme ou titre – ex. BTS SIO, Licence Informatique, titre RNCP]</span>
+        <span class="item-periode">AAAA</span>
+      </div>
+      <p class="item-sous-titre">[École / Organisme] – [Ville]</p>
+    </div>
+
+    <div class="item">
+      <div class="item-header">
+        <span class="item-titre">[Formation complémentaire ou certification – ex. OpenClassrooms, freeCodeCamp]</span>
+        <span class="item-periode">AAAA</span>
+      </div>
+      <p class="item-sous-titre">[Organisme]</p>
+    </div>
+
+  </section>
+
+  <!-- ══ LANGUES ══ -->
+  <section>
+    <h2>Langues</h2>
+    <div class="competences-grille">
+      <span class="label">Français</span>
+      <span class="valeur">Langue maternelle</span>
+
+      <span class="label">Anglais</span>
+      <span class="valeur">Professionnel – lecture documentation technique, échanges écrits</span>
+    </div>
+  </section>
+
+</body>
+</html>
