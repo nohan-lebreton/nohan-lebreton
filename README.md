@@ -1,3 +1,3 @@
 # nohan lebreton
 
-https://nohan-lebreton.github.io/nohan-lebreton/
+http://nohan-lebreton.fr/
