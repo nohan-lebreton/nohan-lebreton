@@ -1,5 +1,3 @@
 # nohan lebreton
 
-```
- https://ton-url.fr/cv
-```
+https://nohan-lebreton.github.io/nohan-lebreton/
